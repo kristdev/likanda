@@ -1,0 +1,9 @@
+dev:
+    scheme: ftp
+    host: kristdev.com
+    port: 21
+    user: kristdev
+    pass: temporary@43321
+    check: true
+    path:
+        remote: /public_html/mproject/files/likanda

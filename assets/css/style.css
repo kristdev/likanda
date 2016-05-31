@@ -71,11 +71,11 @@ a {
 }
 a:hover,
 a:focus {
-    color: #3498db;
+    color: #aa6227;
     text-decoration: none;
 }
 .colored-text{
-    color:#3498db;
+    color:#aa6227;
 }
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
@@ -121,7 +121,7 @@ h3.heading:before {
     position: absolute;
     content: "";
     height: 1px;
-    background:#3498db;
+    background:#aa6227;
     width: 90px;
     bottom: -1px;
     left: 0px;
@@ -174,8 +174,8 @@ p {
     display: inline-block;
     width:70px;
     height: 6px;
-    border-top: 1px solid #3498db;
-    border-bottom: 1px solid #3498db;
+    border-top: 1px solid #aa6227;
+    border-bottom: 1px solid #aa6227;
     margin: auto;
 
 }
@@ -298,11 +298,11 @@ p {
 }
 
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
-    color: #3498db;
+    color: #aa6227;
     background-color: transparent;
 }
 .navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:hover, .navbar-default .navbar-nav>.open>a:focus {
-    color: #3498db;
+    color: #aa6227;
     background-color: transparent;
 }
 .navbar-brand{
@@ -320,7 +320,7 @@ p {
     text-transform: uppercase;
 }
 .navbar-default .navbar-nav>li>a:hover {
-    color: #3498db;
+    color: #aa6227;
 
 }
 .navbar-brand img{
@@ -361,7 +361,7 @@ p {
 }
 .navbar .dropdown-menu li a:hover{
     background-color: transparent;
-    color:#3498db;
+    color:#aa6227;
 }
 .navbar .dropdown-menu li:last-child a{
     border-bottom: 0 !important;
@@ -449,13 +449,13 @@ p {
 }
 .nav.mega-vertical-nav li a:hover{
     background-color:transparent;
-    color:#3498db;
+    color:#aa6227;
 }
 @media(max-width:1024px){
 
     .nav.mega-vertical-nav li a:hover{
         background-color:transparent;
-        color:#3498db;
+        color:#aa6227;
         padding: 5px 0px;
     }
     .yamm-content .mega-vertical-nav li a{
@@ -469,7 +469,7 @@ p {
     margin: 0;
 }
 .mega-contact i{
-    color:#3498db;
+    color:#aa6227;
     margin-right: 10px;
 }
 /*navbar search form***/
@@ -509,9 +509,9 @@ p {
 }
 
 .btn-theme-bg{
-    border-color: #3498db !important;
+    border-color: #aa6227 !important;
     color: #fff !important;
-    background-color: #3498db !important;
+    background-color: #aa6227 !important;
 }
 .btn i{
     margin-right: 10px;
@@ -526,7 +526,7 @@ p {
 }
 .btn-theme-dark:hover{
     color:#fff;
-    background-color: #3498db;
+    background-color: #aa6227;
 }
 
 /*********border-buttons**********/
@@ -551,12 +551,12 @@ p {
     color:#000;
 }
 .border-theme{
-    border: 1px solid #3498db;
-    color:#3498db;
+    border: 1px solid #aa6227;
+    color:#aa6227;
 }
 .border-theme:hover{
-    background-color: #3498db;
-    border-color: #3498db;
+    background-color: #aa6227;
+    border-color: #aa6227;
     color:#fff;
 }
 /************************image hover effect*******************/
@@ -690,7 +690,7 @@ input[type="color"]:focus,
     line-height: 50px;
     text-align: center;
     top: 45%;
-    background-color: #3498db;
+    background-color: #aa6227;
 }
 .carousel-control i{
     font-size: 25px;
@@ -709,7 +709,7 @@ input[type="color"]:focus,
     text-shadow: 0 1px 2px rgba(0,0,0,.25);
 }
 .slide-text h1 b{
-    color:#3498db !important;
+    color:#aa6227 !important;
     font-weight: 700;
 }
 .slide-text p{
@@ -773,7 +773,7 @@ input[type="color"]:focus,
     box-shadow: none;
 }
 .main-flex-slider .flex-control-paging li a.flex-active{
-    background-color:#3498db !important;
+    background-color:#aa6227 !important;
 }
 .slider-overlay{
     background: rgba(0,0,0,.4);
@@ -896,7 +896,7 @@ input[type="color"]:focus,
     -webkit-animation: blink 0.7s infinite;
     -moz-animation: blink 0.7s infinite;
     animation: blink 0.7s infinite;
-    color:#3498db;
+    color:#aa6227;
 }
 @keyframes blink{
     0% { opacity:1; }
@@ -930,7 +930,7 @@ h1.typed-text{
     font-weight: 300;
 }
 .typed-text .element{
-    color:#3498db;
+    color:#aa6227;
 }
 #home-parallax p{
     color:#fff;
@@ -963,7 +963,7 @@ h1.typed-text{
     top: 5px;
 }
 .services-box-icon i{
-    color:#3498db;
+    color:#aa6227;
     font-size: 30px;
 }
 .services-box-info{
@@ -979,7 +979,7 @@ h1.typed-text{
     height: 85px;
     line-height:85px;
     text-align: center;
-    color:#3498db;
+    color:#aa6227;
     font-size: 30px;
     background-color: #f7f9fa;
     border-radius: 50%;
@@ -1003,7 +1003,7 @@ h1.typed-text{
     -ms-transform: rotateY(360deg);
     -o-transform: rotateY(360deg);
     color: #fff;
-    background-color: #3498db;
+    background-color: #aa6227;
 }
 
 
@@ -1100,14 +1100,14 @@ h1.typed-text{
 }
 
 .portfolio-filters li:hover{
-    background-color:#3498db;
+    background-color:#aa6227;
     color:#fff;
-    border-color:  #3498db;
+    border-color:  #aa6227;
 }
 .portfolio-filters li.active{
     color:#fff;
-    background-color: #3498db;
-    border-color:  #3498db;
+    background-color: #aa6227;
+    border-color:  #aa6227;
 }
 .project-detail h3{
     margin-bottom: 10px;
@@ -1131,7 +1131,7 @@ h3.heading-progress {
 }
 .progress-bar {
     line-height: 10px;
-    background:#3498db;
+    background:#aa6227;
     box-shadow: none;
     -webkit-box-shadow: none;
 }
@@ -1284,11 +1284,11 @@ ul.post-desc li + li{
     font-family: 'Ubuntu', sans-serif;
 }
 .testimonials  h4 i{
-    color:#3498db;
+    color:#aa6227;
     margin-right: 5px;
 }
 .testimonials p{
-    color:#3498db;
+    color:#aa6227;
     font-size: 25px;
     font-weight: 400;
     font-style: normal;
@@ -1321,12 +1321,12 @@ ul.post-desc li + li{
 .panel-default>.panel-heading {
     color: #000;
     background-color: #fff;
-    border-color:#3498db !important;
+    border-color:#aa6227 !important;
     padding: 7px 12px;
 }
 .panel-title i{
     margin-right: 10px;
-    color:#3498db;
+    color:#aa6227;
 }
 
 /************************************************* css for footers****************************************/
@@ -1363,7 +1363,7 @@ ul.post-desc li + li{
     color:#777;
 }
 .contact a:hover{
-    color:#3498db;
+    color:#aa6227;
 }
 .f2-work li{
     margin: 2px;
@@ -1379,7 +1379,7 @@ ul.post-desc li + li{
     transition: 0.7s ease-in-out;
 }
 .f2-work li a:hover img{
-    border-color:#3498db;
+    border-color:#aa6227;
 
 }
 .footer-btm{
@@ -1425,7 +1425,7 @@ ul.post-desc li + li{
     color:#777;
 }
 #footer-option .contact a:hover{
-    color:#3498db;
+    color:#aa6227;
 }
 /************twitter feed*****************/
 .tweet ul{
@@ -1445,7 +1445,7 @@ ul.post-desc li + li{
     font-family: 'FontAwesome';
     margin-right: 15px;
     font-size: 16px;
-    color:#3498db;
+    color:#aa6227;
 }
 .tweet ul li .date{
     padding: 3px 0;
@@ -1463,7 +1463,7 @@ ul.post-desc li + li{
     font-size: 13px;
 }
 .tweet li a:hover{
-    color:#3498db;
+    color:#aa6227;
 }
 .latest-f-news li a{
     display: block;
@@ -1559,7 +1559,7 @@ ul.post-desc li + li{
 /*purchase section*/
 .purchase-sec{
     padding: 30px 0;
-    background: #3498db;
+    background: #aa6227;
 }
 .purchase-sec span{
     line-height: 40px;
@@ -1589,7 +1589,7 @@ ul.post-desc li + li{
 .facts-in h3 i{
     font-size: 40px;
     margin-right: 20px;
-    color:#3498db;
+    color:#aa6227;
 }
 .facts-in h4{
     margin-bottom: 0px;
@@ -1611,7 +1611,7 @@ ul.post-desc li + li{
     -webkit-border-radius: 20px;
     -moz-border-radius: 20px;
     /* border-radius: 20px; */
-    background: #3498db !important;
+    background: #aa6227 !important;
 }
 
 
@@ -1692,7 +1692,7 @@ ol.breadcrumb li a{
 }
 /***list of highlight**/
 .highlight-list li i{
-    color:#3498db;
+    color:#aa6227;
     margin-right: 10px;
 }
 
@@ -1762,7 +1762,7 @@ ol.breadcrumb li a{
     text-align: center;
 }
 .price-price.popular{
-    background: #3498db;  
+    background: #aa6227;  
     color:#fff;
 }
 .price-price.popular span{
@@ -1783,7 +1783,7 @@ ol.breadcrumb li a{
 }
 .me-hobbies h4 i{
     margin-right: 10px;
-    color:#3498db;
+    color:#aa6227;
 }
 .services-me li{
     padding: 10px 0;
@@ -1800,7 +1800,7 @@ ol.breadcrumb li a{
     border-bottom-right-radius: 3px;
     font-size: 18px;
     background-color: #e5e5e5;
-    color:#3498db;
+    color:#aa6227;
 }
 .contact-me{
     background-color: #eee;
@@ -1813,7 +1813,7 @@ p.dropcap:first-letter{
     font-size: 50px;
     line-height: 51px;
     margin: -1px 8px -2px 0; 
-    color:#3498db;
+    color:#aa6227;
 }
 /*contact us*/
 
@@ -1855,7 +1855,7 @@ label span{
     font-size: 150px;
     text-align: center;
     line-height: 150px;
-    color:#3498db;
+    color:#aa6227;
 
 }
 .error-text h2{
@@ -1899,7 +1899,7 @@ label span{
     margin-left: 5px;
 }
 .cat-list li a:hover{
-    color:#3498db;
+    color:#aa6227;
 }
 .popular-post li{
     padding-bottom: 20px;
@@ -1924,7 +1924,7 @@ label span{
     color:#666;
 }
 .popular-desc h5 a:hover{
-    color:#3498db;
+    color:#aa6227;
 }
 .popular-desc h6{
     color:#777;
@@ -2046,7 +2046,7 @@ label span{
 }
 #cta-1{
     padding: 30px 0;
-    background-color: #3498db;
+    background-color: #aa6227;
     text-align: center;
 }
 #cta-1 h1{
@@ -2171,13 +2171,13 @@ label span{
     margin-right: 4px;
 }
 .tabs .nav-tabs  li.active  a {
-    color: #3498db;
+    color: #aa6227;
     border-left-color: #eee;
     border-right-color: #eee;
     background: #fff;
 }
 .tabs .nav-tabs  li.active  a:after {
-    background: #3498db;
+    background: #aa6227;
 }
 .tabs .nav-tabs  li.active  a:before {
     background: #fff;
@@ -2302,7 +2302,7 @@ Version v1.1 css*
 
 }
 .latest-tweets .tweet li a{
-    color:#3498db;
+    color:#aa6227;
 }
 /**********************sidenav*********************/
 .side-nav li{
@@ -2315,7 +2315,7 @@ Version v1.1 css*
     position: relative;
 }
 .side-nav li a.active{
-    color:#3498db;
+    color:#aa6227;
 }
 .side-nav li a i{
     margin-right: 10px;
@@ -2335,7 +2335,7 @@ Version v1.1 css*
     margin-right: 5px;
 }
 .pagination>.active>a, .pagination>.active>span, .pagination>.active>a:hover, .pagination>.active>span:hover, .pagination>.active>a:focus, .pagination>.active>span:focus{
-    background-color: #3498db;
+    background-color: #aa6227;
 }
 
 .jobs-row h4.panel-title{
@@ -2374,11 +2374,11 @@ Version v1.1 css*
 }
 
 .navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:hover, .navbar-inverse .navbar-nav>.active>a:focus {
-    color: #3498db;
+    color: #aa6227;
     background-color: transparent;
 }
 .navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:hover, .navbar-inverse .navbar-nav>.open>a:focus {
-    color: #3498db;
+    color: #aa6227;
     background-color: transparent;
 }
 .navbar-inverse .navbar-brand{
@@ -2396,7 +2396,7 @@ Version v1.1 css*
     text-transform: uppercase;
 }
 .navbar-inverse .navbar-nav>li>a:hover {
-    color: #3498db;
+    color: #aa6227;
 
 }
 #header-top.dark-header-top{
@@ -2474,7 +2474,7 @@ span.results-number{
     margin-bottom: 0px;
 }
 .results-box h3  a{
-    color:#3498db;
+    color:#aa6227;
 }
 .results-box h3  a:hover{
     text-decoration: underline;
@@ -2504,7 +2504,7 @@ span.results-number{
     font-size: 12px;
 }
 .link-ul li a:hover{
-    color:#3498db;
+    color:#aa6227;
     text-decoration: underline;
 }
 .results-box p{
@@ -2517,7 +2517,7 @@ span.results-number{
 }
 .results-sidebar-box ul li a:hover{
     text-decoration: underline;
-    color:#3498db;
+    color:#aa6227;
 }
 .results-sidebar-box h4{
     font-size: 14px;
@@ -2615,7 +2615,7 @@ span.results-number{
     -moz-transition: all 200ms ease-in;
 }
 .step:hover .icon-square i {
-    background-color: #3498db;
+    background-color: #aa6227;
     color: #FFF;
 }
 .icon-square i:before {
@@ -2743,7 +2743,7 @@ body.invoice{
     }  
 }
 .nav-tabs>li>a:hover{
-    border-color: #3498db;
+    border-color: #aa6227;
     background-color: transparent;
 }
 .tab-content{
@@ -2798,7 +2798,7 @@ body.invoice{
 }
 .dropdown-login-box h4 em{
     font-size: 12px;
-    color:#3498db;
+    color:#aa6227;
     font-weight: 300;
 }
 .dropdown-login-box input[type=checkbox] {
@@ -2809,10 +2809,10 @@ body.invoice{
     margin: 0;
 }
 .dropdown-login-box p a{
-    color:#3498db;
+    color:#aa6227;
 }
 .dropdown-login-box p a:hover{
-    color:#3498db;
+    color:#aa6227;
     text-decoration: underline;
 }
 
