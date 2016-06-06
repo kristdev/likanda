@@ -1,0 +1,59 @@
+<div id="header-top" class="hidden-xs">
+    <div class="container">
+        <div class="top-bar">
+            <!--<div class="pull-left">
+<a href="#"><i class="fa fa-envelope"></i> info@likandaconsulting.com</a><a><i class="fa fa-phone"></i> 237 - 699814486</a>
+</div>-->
+            <div class="pull-right">
+                <ul class="list-inline top-social">
+                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                    <li><a href="#"><i class="fa fa-youtube"></i></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div><!--top bar end hidden in small devices-->
+<!--navigation -->
+<!-- Static navbar -->
+<div class="navbar navbar-default navbar-static-top yamm sticky" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a ng-show="url=='home'" class="navbar-brand" href="index.html"><img src="assets/img/logo.png" alt="Likanda" style="margin-top:-75px; height:200px; width:153px;"></a>
+            <a ng-show="url!='home'" class="navbar-brand" href="index.html"><img src="assets/img/icone-big.png" alt="Likanda" style="margin-top:-75px; height:138px; width:137px;"></a>
+        </div>
+        <div class="navbar-collapse collapse">
+            <ul class="nav navbar-nav navbar-right">
+                <li ng-class="{'active':url=='home'}">
+                    <a href="./">Home</a>
+                </li>
+                <li ng-class="{active:url=='a-propos'}">
+                    <a href="./a-propos.html">A propos</a>
+                </li>
+                <li ng-class="{active:url=='nos-services'}">
+                    <a href="./nos-services.html">Nos services</a>
+                </li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Galleries <i class="fa fa-angle-down"></i></a>
+                    <ul class="dropdown-menu" role="menu">
+                        <li><a href="#">Instruments de musique</a></li>
+                        <li><a href="me.html">Tableaux</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#">Forum</a>
+                </li>
+                <li>
+                    <a href="#">Contact</a>
+                </li>
+            </ul>
+        </div><!--/.nav-collapse -->
+    </div>
+</div><!--.navbar-default-->

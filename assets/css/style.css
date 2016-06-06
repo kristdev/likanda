@@ -1572,8 +1572,9 @@ ul.post-desc li + li{
 
 /****fun facts*****/
 .fun-fact-wrap{
-    background: url(../img/showcase-5.jpg);
+    background: url(../img/parallax-bg.jpg);
     background-repeat: repeat !important;
+    background-position: center bottom;
     padding-top:100px;
     padding-bottom: 70px;
 }
